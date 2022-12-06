@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "jekyll-npm-run"
-  s.version     = "1.0.0"
+  s.version     = "1.0.2"
   s.summary     = "Run scipts"
   s.description = "Run a npm script everytime Jekyll builds your site"
   s.authors     = ["Johannes Ebeling"]
